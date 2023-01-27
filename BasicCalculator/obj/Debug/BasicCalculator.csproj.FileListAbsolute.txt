@@ -1,0 +1,11 @@
+C:\Users\Yusuf\source\repos\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.csproj.AssemblyReference.cache
+C:\Users\Yusuf\source\repos\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yusuf\source\repos\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.Form1.resources
+C:\Users\Yusuf\source\repos\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.Properties.Resources.resources
+C:\Users\Yusuf\source\repos\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.csproj.GenerateResource.cache
+C:\Users\Yusuf\source\repos\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\source\repos\BasicCalculator\BasicCalculator\bin\Debug\BasicCalculator.exe.config
+C:\Users\Yusuf\source\repos\BasicCalculator\BasicCalculator\bin\Debug\BasicCalculator.exe
+C:\Users\Yusuf\source\repos\BasicCalculator\BasicCalculator\bin\Debug\BasicCalculator.pdb
+C:\Users\Yusuf\source\repos\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.exe
+C:\Users\Yusuf\source\repos\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.pdb
